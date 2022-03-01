@@ -132,12 +132,8 @@ body {
 
 @media (max-width: 400px) {
     .logo {
-        width: 120px;
+        width: 140px;
         margin-bottom: 40px;
-    }
-
-    .menu__item {
-        padding: 13px 20px;
     }
 
     .menu__item img {
